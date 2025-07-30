@@ -1,0 +1,6 @@
+ezdxf
+svgwrite
+transformers
+torch
+numpy
+pandas
